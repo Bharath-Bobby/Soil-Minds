@@ -8,19 +8,9 @@
   <strong>Nurturing Tomorrow's Harvest Today</strong>
 </p>
 
-## Table of Contents
-- [About the Project](#-about-the-project)
-- [Key Features](#-key-features)
-- [Technologies Used](#-technologies-used)
-- [Project Structure](#-project-structure)
-- [Getting Started](#-getting-started)
-- [Usage](#-usage)
-- [Future Scope](#-future-scope)
-
 ## About the Project
 
-**SoilMinds** is a web application developed to assist farmers in making informed agricultural decisions.  
-By blending technology with the art of cultivation, this project aims to address the challenges farmers face in selecting suitable crops and identifying the right fertilizers for their specific soil conditions.
+**SoilMinds** is a web application developed to assist farmers in making informed agricultural decisions. By blending technology with the art of cultivation, this project aims to address the challenges farmers face in selecting suitable crops and identifying the right fertilizers for their specific soil conditions.
 
 The project aligns with **SDG 15** (Life on Land) by promoting sustainable agriculture and optimizing resource usage.
 
