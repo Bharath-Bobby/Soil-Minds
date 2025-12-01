@@ -1,3 +1,6 @@
+I apologize for the previous incomplete response. Here is the **entire** content for your `README.md` file in a single, continuous code block that you can copy and paste directly.
+
+````markdown
 # SoilMinds - Sustainable Agriculture Assistant (SDG 15)
 
 <p align="center">
@@ -5,7 +8,7 @@
 </p>
 
 <p align="center">
-  [cite_start]<strong>Nurturing Tomorrow's Harvest Today [cite: 111]</strong>
+  <strong>Nurturing Tomorrow's Harvest Today</strong>
 </p>
 
 ## 📋 Table of Contents
@@ -68,69 +71,70 @@ Soil-Minds/
 │   └── index.css
 ├── package.json
 └── vite.config.ts
+````
 
-💻 Getting Started
+## 💻 Getting Started
+
 Follow these steps to set up the project locally.
 
-Prerequisites
-Node.js installed on your machine.
+### Prerequisites
 
-Installation & Setup
-Open your terminal.
+  * **Node.js** installed on your machine.
 
-Navigate to the project directory:
+### Installation & Setup
 
-Bash
+1.  **Open your terminal.**
 
-cd venv
-Install dependencies:
+2.  **Navigate to the project directory:**
 
-Bash
+    ```bash
+    cd venv
+    ```
 
-npm install
-Run the development server:
+3.  **Install dependencies:**
 
-Bash
+    ```bash
+    npm install
+    ```
 
-npm start
-Access the application: Open your browser and navigate to:
+4.  **Run the development server:**
 
-http://localhost:5173/
-🎮 Usage
+    ```bash
+    npm start
+    ```
 
-Home: Click "Get Started Now" to enter the application.
+5.  **Access the application:**
+    Open your browser and navigate to:
 
-Crop Prediction: Enter the soil nutrient ratios (N, P, K), environmental factors (Temperature, Humidity, Rainfall), and pH level. Click PREDICT to see which crop is best for your land.
+    ```
+    http://localhost:5173/
+    ```
 
-Fertilizer Prediction: Navigate to the "Fertilizer Recommendation" tab. Input soil details and the crop type to receive specific fertilizer advice.
+## 🎮 Usage
 
+1.  [cite\_start]**Home:** Click "Get Started Now" to enter the application[cite: 130].
+2.  **Crop Prediction:** Enter the soil nutrient ratios (N, P, K), environmental factors (Temperature, Humidity, Rainfall), and pH level. [cite\_start]Click **PREDICT** to see which crop is best for your land[cite: 147].
+3.  **Fertilizer Prediction:** Navigate to the "Fertilizer Recommendation" tab. [cite\_start]Input soil details and the crop type to receive specific fertilizer advice[cite: 163, 184].
 
-🔮 Future Scope
+## 🔮 Future Scope
 
-Machine Learning Integration: Implementing Random Forest or Gradient Boosting algorithms for higher accuracy and adaptability.
+  * [cite\_start]**Machine Learning Integration:** Implementing Random Forest or Gradient Boosting algorithms for higher accuracy and adaptability[cite: 203, 205].
+  * [cite\_start]**Mobile Application:** Developing a native mobile app for easier access in rural areas using smartphones[cite: 216].
+  * [cite\_start]**Real-time Weather:** Integrating weather forecast data to enhance the precision of recommendations[cite: 220].
+  * [cite\_start]**Multilingual Support:** Localizing the app for diverse linguistic and cultural backgrounds[cite: 218].
 
+## 👥 Team
 
-Mobile Application: Developing a native mobile app for easier access in rural areas using smartphones.
+[cite\_start]**Department of Information Technology, Madras Institute of Technology, Anna University** [cite: 3, 5]
 
+  * [cite\_start]**Bharath H** (2022506116) [cite: 11]
+  * [cite\_start]**John Prabhu A** (2022506113) [cite: 11]
+  * [cite\_start]**Velmurugan T** (2022506034) [cite: 11]
+  * [cite\_start]**Navin Surgith M** (2022506317) [cite: 11]
 
-Real-time Weather: Integrating weather forecast data to enhance the precision of recommendations.
+-----
 
+[cite\_start]*Developed as a Mini Project for IT5311 Programming and Data Structures Laboratory[cite: 6, 7].*
 
-Multilingual Support: Localizing the app for diverse linguistic and cultural backgrounds.
-
-👥 Team
-
-Department of Information Technology, Madras Institute of Technology, Anna University 
-
-
-
-Bharath H (2022506116) 
-
-
-John Prabhu A (2022506113) 
-
-
-Velmurugan T (2022506034) 
-
-
-Navin Surgith M (2022506317)
+```
+```
