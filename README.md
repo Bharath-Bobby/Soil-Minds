@@ -16,32 +16,31 @@
 - [Getting Started](#-getting-started)
 - [Usage](#-usage)
 - [Future Scope](#-future-scope)
-- [Team](#-team)
 
 ---
 
 ## 🌾 About the Project
 
-[cite_start]**SoilMinds** is a web application developed to assist farmers in making informed agricultural decisions[cite: 16].  
-[cite_start]By blending technology with the art of cultivation, this project aims to address the challenges farmers face in selecting suitable crops and identifying the right fertilizers for their specific soil conditions[cite: 13, 113].
+**SoilMinds** is a web application developed to assist farmers in making informed agricultural decisions.  
+By blending technology with the art of cultivation, this project aims to address the challenges farmers face in selecting suitable crops and identifying the right fertilizers for their specific soil conditions.
 
-[cite_start]The project aligns with **SDG 15** (Life on Land) by promoting sustainable agriculture and optimizing resource usage[cite: 9].
+The project aligns with **SDG 15** (Life on Land) by promoting sustainable agriculture and optimizing resource usage.
 
 ## 🚀 Key Features
 
-* [cite_start]**Precision Crop Recommendation:** Develops a predictive model that analyzes soil properties including Nitrogen (N), Phosphorus (P), Potassium (K), Temperature, Humidity, pH, and Rainfall to recommend the most suitable crop[cite: 18, 115].
-* [cite_start]**Fertilizer Insights:** Creates a model that suggests appropriate pesticides/fertilizers based on the identified crops and prevailing environmental conditions[cite: 19, 118].
-* [cite_start]**Interactive 3D Elements:** Includes 3D model integration for an engaging user experience, utilizing GLTF assets[cite: 44].
-* [cite_start]**User-Friendly Interface:** Boasts an intuitive interface designed for every farmer, allowing effortless navigation regardless of technical expertise[cite: 122].
+* **Precision Crop Recommendation:** Develops a predictive model that analyzes soil properties including Nitrogen (N), Phosphorus (P), Potassium (K), Temperature, Humidity, pH, and Rainfall to recommend the most suitable crop.
+* **Fertilizer Insights:** Creates a model that suggests appropriate pesticides/fertilizers based on the identified crops and prevailing environmental conditions.
+* **Interactive 3D Elements:** Includes 3D model integration for an engaging user experience, utilizing GLTF assets.
+* **User-Friendly Interface:** Boasts an intuitive interface designed for every farmer, allowing effortless navigation regardless of technical expertise.
 
 ## 🛠 Technologies Used
 
-* [cite_start]**Frontend:** React.js, JavaScript, CSS[cite: 21, 36, 41].  
-  * [cite_start]*React Router* for navigation[cite: 26].
+* **Frontend:** React.js, JavaScript, CSS.  
+  * *React Router* for navigation.
 * **Build Tool:** Vite (configured via `vite.config.ts`).
-* [cite_start]**Runtime:** Node.js (Runtime environment for executing JavaScript)[cite: 27].
-* [cite_start]**Algorithm:** Decision Tree Logic (Used for crop recommendation based on input parameters)[cite: 33].
-* [cite_start]**Assets:** GLTF 3D Models, SVG Icons[cite: 44].
+* **Runtime:** Node.js (Runtime environment for executing JavaScript).
+* **Algorithm:** Decision Tree Logic (Used for crop recommendation based on input parameters).
+* **Assets:** GLTF 3D Models, SVG Icons.
 
 ## 📂 Project Structure
 
@@ -111,28 +110,19 @@ Follow these steps to set up the project locally.
 
 ## 🎮 Usage
 
-1. [cite_start]**Home:** Click "Get Started Now" to enter the application[cite: 130].  
+1. **Home:** Click "Get Started Now" to enter the application.  
 2. **Crop Prediction:** Enter the soil nutrient ratios (N, P, K), environmental factors (Temperature, Humidity, Rainfall), and pH level.  
-   [cite_start]Click **PREDICT** to see which crop is best for your land[cite: 147].  
+   Click **PREDICT** to see which crop is best for your land.  
 3. **Fertilizer Prediction:** Navigate to the "Fertilizer Recommendation" tab.  
-   [cite_start]Input soil details and the crop type to receive specific fertilizer advice[cite: 163, 184].
+   Input soil details and the crop type to receive specific fertilizer advice.
 
 ## 🔮 Future Scope
 
-* [cite_start]**Machine Learning Integration:** Implementing Random Forest or Gradient Boosting algorithms for higher accuracy and adaptability[cite: 203, 205].
-* [cite_start]**Mobile Application:** Developing a native mobile app for easier access in rural areas using smartphones[cite: 216].
-* [cite_start]**Real-time Weather:** Integrating weather forecast data to enhance the precision of recommendations[cite: 220].
-* [cite_start]**Multilingual Support:** Localizing the app for diverse linguistic and cultural backgrounds[cite: 218].
-
-## 👥 Team
-
-[cite_start]**Department of Information Technology, Madras Institute of Technology, Anna University** [cite: 3, 5]
-
-* [cite_start]**Bharath H** (2022506116) [cite: 11]
-* [cite_start]**John Prabhu A** (2022506113) [cite: 11]
-* [cite_start]**Velmurugan T** (2022506034) [cite: 11]
-* [cite_start]**Navin Surgith M** (2022506317) [cite: 11]
+* **Machine Learning Integration:** Implementing Random Forest or Gradient Boosting algorithms for higher accuracy and adaptability.
+* **Mobile Application:** Developing a native mobile app for easier access in rural areas using smartphones.
+* **Real-time Weather:** Integrating weather forecast data to enhance the precision of recommendations.
+* **Multilingual Support:** Localizing the app for diverse linguistic and cultural backgrounds.
 
 ---
 
-[cite_start]*Developed as a Mini Project for IT5311 Programming and Data Structures Laboratory[cite: 6, 7].*
+*Developed as a Mini Project for IT5311 Programming and Data Structures Laboratory.*
