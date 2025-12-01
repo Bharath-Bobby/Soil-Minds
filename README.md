@@ -17,8 +17,6 @@
 - [Usage](#-usage)
 - [Future Scope](#-future-scope)
 
----
-
 ## About the Project
 
 **SoilMinds** is a web application developed to assist farmers in making informed agricultural decisions.  
@@ -122,3 +120,16 @@ Follow these steps to set up the project locally.
 * **Mobile Application:** Developing a native mobile app for easier access in rural areas using smartphones.
 * **Real-time Weather:** Integrating weather forecast data to enhance the precision of recommendations.
 * **Multilingual Support:** Localizing the app for diverse linguistic and cultural backgrounds.
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+
+Licensed under the [MIT License](LICENSE).
+
+## Author
+
+**Bharath Bobby**
+GitHub: [@Bharath-Bobby](https://github.com/Bharath-Bobby)
