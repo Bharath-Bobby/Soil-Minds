@@ -72,6 +72,13 @@ Follow these steps to set up the project locally.
 
 2. **Navigate to the project directory:**
 
+   It’s recommended to use a virtual environment:
+
+    ```bash
+    python -m venv venv
+    source venv/bin/activate       # On Windows: venv\Scripts\activate
+    ```
+
     ```bash
     cd project_folder
     ```
@@ -121,5 +128,5 @@ Licensed under the [MIT License](LICENSE).
 
 ## Author
 
-**Bharath Bobby**
+**Bharath Harihara Sudhan** - 
 GitHub: [@Bharath-Bobby](https://github.com/Bharath-Bobby)
