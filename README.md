@@ -1,7 +1,7 @@
 # SoilMinds - Sustainable Agriculture Assistant (SDG 15)
 
 <p align="center">
-  <img src="public/icon.png" alt="SoilMinds Logo" width="150">
+  <img src="public/icon.png" alt="SoilMinds Logo" width="100">
 </p>
 
 <p align="center">
